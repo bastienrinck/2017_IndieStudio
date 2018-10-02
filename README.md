@@ -4,7 +4,7 @@
 
 Home made "Bomberman" game, using irrlicht 3D Engine, irrklang audio library and a dedicated AI.
 
-**Presentation movie [here](https://github.com/thibautcornolti/IndieStudio/blob/master/Intro.mp4)**
+**Presentation video [here](https://github.com/thibautcornolti/IndieStudio/blob/master/Intro.mp4)**
 
 ## Authors
 * Bastien Rinck
