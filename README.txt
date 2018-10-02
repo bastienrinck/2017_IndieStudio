@@ -1,14 +1,15 @@
-DEV :
+# 2017_IndieStudio
 
-tips:
-	fichier media => assets / importer en chemin direct "assets/<fichier>"
+**Subject [here](https://github.com/thibautcornolti/IndieStudio/blob/master/Subject.pdf)**
 
-linux setup :
+Home made "Bomberman" game, using irrlicht 3D Engine, irrklang audio library and dedicated AI.
 
-  compiler:
-	mkdir build ; cd build ; cmake .. ; make
+**Presentation movie [here](https://github.com/thibautcornolti/IndieStudio/blob/master/Intro.mp4)**
 
-windows setup:
-
-  compiler:
-	?
+## Authors
+* Bastien Rinck
+* Thibaut Cornolti
+* Arthur Knoepflin
+* Cédric thomas
+* Daniel Rameh
+* Victor Weber
